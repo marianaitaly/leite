@@ -2,8 +2,8 @@
   --preto: rgb(0, 0, 0);
   --vermelho: #ff0000;
   --vermelho: #c01f1f;
-  --branco: rgb(255, 255, 255);
-  --luz: rgb(255, 255, 255);
+  --preta: rgb(0, 0, 0);
+  --branca: rgb(255, 255, 255);
 }
 
 body {
